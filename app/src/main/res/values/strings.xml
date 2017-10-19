@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ResideMenuSample</string>
+    <string name="frg_profile">Profile</string>
+    <string name="frg_settings">Settings</string>
+    <string name="frg_openmenu">OPEN THE MENU</string>
+    <string name="frg_txtinfo">Swipe right/left or left/right to open menu</string>
+    <string name="frg_ignored">This view is ignored，swipe gesture won\'t work here.</string>
+    <string name="frg_title">ResideMenu Sample</string>
+</resources>
